@@ -1,0 +1,2 @@
+# awesome-SQL
+SQL resources.
